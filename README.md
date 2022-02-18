@@ -5,7 +5,7 @@
 
 **Дата рождения:** 26.09.1976
 
-![logo](file:///Users/denistitarenko/Documents/Git/Kursovoy/img/chess.jpg)
+![chess](file:///Users/denistitarenko/Documents/Git/Kursovoy/img/chess.jpg)
 
 *Контакты:* blakkffox@icloud.com
 
